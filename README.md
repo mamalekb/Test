@@ -1,3 +1,4 @@
 # Test
 Testowe reposytorium
-To jest repozytorium testowe
+
+*to był test usunięcia*
